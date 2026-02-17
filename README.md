@@ -1,16 +1,43 @@
-## Hi there 👋
+# Bruno G. Silva
 
-<!--
-**brunogsilvatech/brunogsilvatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional transitioning into AI-driven software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Background
+
+Former commercial strategy and real estate operations professional with experience in:
+
+- Sales leadership and performance targets
+- Credit and risk pre-analysis
+- Market competition mapping
+- Product positioning and strategic reporting
+- Training and team coordination
+
+Strong exposure to pressure environments, negotiation, and decision-making under uncertainty.
+
+---
+
+## Current Focus
+
+Building structural foundations in:
+
+- Python fundamentals
+- Prompt Engineering
+- Logical reasoning and execution flow
+- Technical English communication
+
+---
+
+## Learning Philosophy
+
+- No copy/paste solutions  
+- Error-driven correction  
+- Repetition for structural fixation  
+- Clarity over speed  
+
+---
+
+## Objective
+
+Transition into software and AI-focused technical roles with strong structural reasoning and disciplined execution.
